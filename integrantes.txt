@@ -1,0 +1,9 @@
+Practica Vue3
+
+Nombre de integrantes
+  - Graciela Jhovana Cayo Condori
+
+Pasos para iniciar el proyecto
+
+ 1) npm install
+ 2) npm run serve
